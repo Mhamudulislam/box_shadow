@@ -1,0 +1,15 @@
+.box
+{height: calc(500px - 200px); background-color: white; box-shadow: 4px 11px 33px -19px black;}
+h1
+{text-align: center; transform: translate(0, 100px);}
+
+h1
+{text-shadow: 1px 0 salmon, 0 3px red, 1px 0 blue, 0 1px green; color: black;}
+.box1
+{}
+.box2
+{box-shadow: 4px 14px 90px 10px red;}
+.box3
+{box-shadow: 4px 15px 90px 2px skyblue;}
+.box4
+{box-shadow: 4px 14px 90px 9px green;}
